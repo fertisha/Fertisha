@@ -9,10 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/fertisha/configure-ad)
 
-  - <b>Active Directory</b>
+- <b>Active Directory</b>
   - [AD User Management](https://github.com/fertisha/configure-ad)
 
-  - <b>Train a user on how to use an app</b>
+- <b>Train a user on how to use an app</b>
   - [Google Maps Training](https://github.com/fertisha/configure-ad)
 
 <h2>🤳Connect with me:</h2>
