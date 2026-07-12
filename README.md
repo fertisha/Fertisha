@@ -2,13 +2,18 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/fertisha/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/fertisha/post-install-config)
+- <b>serviceNow(Help Desk Ticketing System)</b>
+
   - [osTicket: Ticket Lifecycle Examples](https://github.com/v/ticket-lifecycle)
+    
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/fertisha/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fertisha/azure-network-protocols)
+
+  - <b>Active Directory</b>
+  - [AD User Management](https://github.com/fertisha/configure-ad)
+
+  - <b>Train a user on how to use an app</b>
+  - [Google Maps Training](https://github.com/fertisha/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
