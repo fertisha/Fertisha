@@ -4,7 +4,7 @@
 
 - <b>serviceNow(Help Desk Ticketing System)</b>
 
-  - [serviceNow: Ticket Process](https://github.com/v/ticket-process)
+  - [serviceNow: Ticket Process](https://github.com/fertisha/ticket-process)
     
 - <b>Microsoft Azure</b>
   - [User/Device Management](https://github.com/fertisha/edit-account)
