@@ -4,16 +4,16 @@
 
 - <b>serviceNow(Help Desk Ticketing System)</b>
 
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/v/ticket-lifecycle)
+  - [serviceNow: Ticket Process](https://github.com/v/ticket-process)
     
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/fertisha/configure-ad)
+  - [User/Device Management](https://github.com/fertisha/edit-account)
 
 - <b>Active Directory</b>
-  - [AD User Management](https://github.com/fertisha/configure-ad)
+  - [AD User Management](https://github.com/fertisha/manage-ad)
 
 - <b>Train a user on how to use an app</b>
-  - [Google Maps Training](https://github.com/fertisha/configure-ad)
+  - [Google Maps Training](https://github.com/fertisha/app-training)
 
 <h2>🤳Connect with me:</h2>
 
