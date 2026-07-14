@@ -12,8 +12,7 @@
 - <b>Active Directory</b>
   - [AD User Management](https://github.com/fertisha/manage-ad)
 
-- <b>Train a user on how to use an app</b>
-  - [Google Maps Training](https://github.com/fertisha/app-training)
+
 
 <h2>🤳Connect with me:</h2>
 
